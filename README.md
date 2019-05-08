@@ -1,6 +1,8 @@
 # CD2H Software and Cloud Infrastructure Core
 
 # Leadership
+* Director: Justin Guinney (Sage Bionetworks)
+* Co-Director: Philip Payne (Wash U)
 
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
