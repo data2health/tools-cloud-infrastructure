@@ -37,6 +37,9 @@ See CD2H Labs for our latest demonstration platforms.
 
 ### Current Projects
 [Cloud-Tool-Architecture](https://github.com/data2health/Cloud-Tool-Archtecture)
+
 [EHR Challenges](https://github.com/data2health/DREAM-Challenge)
+
 [Peer-review platform](https://github.com/data2health/competitions-project)
+
 [Leaf-EDW](https://github.com/data2health/leaf-edw)
