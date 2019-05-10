@@ -5,7 +5,8 @@
 * Co-Director: Philip Payne (Wash U)
 
 # Other Core Members
-Don't edit this - the RPPR generator populates this section
+* Fires Wehbe, Competitions Project Lead (Northwestern University)
+* Adam Wilcox, Leaf Project Lead (University of Washington)
 
 # Year 3 Budget
 Don't edit this - the RPPR generator populates this section
