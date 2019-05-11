@@ -1,4 +1,4 @@
-# CD2H Software and Cloud Infrastructure Core
+# CD2H Tools and Cloud Infrastructure Core
 
 # Leadership
 * Director: Justin Guinney (Sage Bionetworks)
