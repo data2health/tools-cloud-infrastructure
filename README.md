@@ -37,7 +37,7 @@ When viewed collectively, we believe that these innovative dimensions of our wor
 
 ### Current Projects
 
-*[Cloud-Tool-Architecture](https://github.com/data2health/Cloud-Tool-Archtecture) ([RPPR](https://github.com/data2health/Cloud-Tool-Archtecture/blob/master/RPPR.md))
-*[EHR Challenges](https://github.com/data2health/DREAM-Challenge) ([RPPR](https://github.com/data2health/DREAM-Challenge/blob/master/RPPR.md))
-*[Peer-review platform](https://github.com/data2health/competitions-project) ([RPPR](https://github.com/data2health/competitions-project/blob/master/RPPR.md))
-*[Leaf-EDW](https://github.com/data2health/leaf-edw) ([RPPR](https://github.com/data2health/leaf-edw/blob/master/RPPR.md))
+* [Cloud-Tool-Architecture](https://github.com/data2health/Cloud-Tool-Archtecture) ([RPPR](https://github.com/data2health/Cloud-Tool-Archtecture/blob/master/RPPR.md))
+* [EHR Challenges](https://github.com/data2health/DREAM-Challenge) ([RPPR](https://github.com/data2health/DREAM-Challenge/blob/master/RPPR.md))
+* [Peer-review platform](https://github.com/data2health/competitions-project) ([RPPR](https://github.com/data2health/competitions-project/blob/master/RPPR.md))
+* [Leaf-EDW](https://github.com/data2health/leaf-edw) ([RPPR](https://github.com/data2health/leaf-edw/blob/master/RPPR.md))
