@@ -1,8 +1,8 @@
 # CD2H Tools and Cloud Infrastructure Core
 
 # Leadership
-* Director: Justin Guinney (Sage Bionetworks)
-* Co-Director: Philip Payne (Wash U)
+* Justin Guinney, Director and EHR Challenge Project Lead (Sage Bionetworks)
+* Philip Payne, Co-Director and Cloud Architecture Project Lead (Wash U)
 
 # Other Core Members
 * Fires Wehbe, Competitions Project Lead (Northwestern University)
@@ -33,14 +33,7 @@ We believe that the aim and approach associated with the TCA are innovative as a
 
 When viewed collectively, we believe that these innovative dimensions of our work will serve as the foundation for the creation of software ecosystem, consisting of a combination of people, technologies, and methods, which can collectively predispose and enable successful and collaborative clinical and translational research projects.
 
-
-### Justification and Feasibility
-They need it, we're showing it can work.
-### Summary of existing system and findings
-See CD2H Labs for our latest demonstration platforms.
 ## Approach
-
-### Progress Report
 
 ### Current Projects
 [Cloud-Tool-Architecture](https://github.com/data2health/Cloud-Tool-Archtecture) ([RPPR](https://github.com/data2health/Cloud-Tool-Archtecture/blob/master/RPPR.md))
