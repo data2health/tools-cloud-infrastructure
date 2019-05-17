@@ -35,22 +35,6 @@ When viewed collectively, we believe that these innovative dimensions of our wor
 
 ## Approach
 
-Cloud-Tool-Architecture Project: 
-
-Our approach to the design and delivery of an elastic, scalable, and sustainable common cloud architecture for use by the national CTSA network will be based upon the NIST Enterprise Architecture Model (GAO, 2010: “A Framework for Assessing and Improving Enterprise Architecture Management”).  The NIST Enterprise Architecture Model (EA) incorporated 5 interdependent layers of architectural planning and implementation, as is shown in Figure 1 below, spanning a spectrum from technical foundations to end-user defined use cases.
-
-
- 
-Figure 1:  Overview of NIST EA model, showing five interdependent layers of architectural planning and implementation.
-Given this model, we will pursue an iterative process of architecture design, implementation, verification/validation, and deployment, working in close coordination with all CD2H cores and projects, as well as a cross-section of CTSA informatics community members from throughout the national network.  In doing so, we will take a use case driven approach, in which the ensuing architecture will be optimized to ensure the successful satisfaction of end-user information needs.  Further, these activities will be interwoven with the architectural and planning activities being undertaken by the Resource Discovery and Development (RDD) Core, Next Generation Data Sharding (NGDS) Core, and the information technology team at NCATS (NCTAS-IT).  A RACI model demonstrating these interdependencies as shown in Table 1 below.  It is important to note that we anticipate some changes to this RACI model as we accrue project experience, various projects mature or are completed, and our collective teams establish standard operating procedures, and as such, it should be considered an “organic” framework that will evolve over time.
-Table 1:  Coordination of architectural design processes spanning CD2H and NCATS units (Key: R = Responsible, A = Accountable, C = Consulted, I = Informed)
-Design Layer	TCA 	RDR	NGDS	NCATS-IT
-Use Cases	R,A	R	C	I
-Information Needs	R	R,A	C	I
-Information Systems	R,A	C	C	I
-Data	C	C	R,A	I
-Delivery Systems	C	C	C	R,A
-
 
 
 
