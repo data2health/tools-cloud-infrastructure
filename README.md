@@ -8,6 +8,8 @@
 * Fires Wehbe, Competitions Project Lead (Northwestern University)
 * Adam Wilcox, Leaf Project Lead (University of Washington)
 
+The [full member list](http://bit.ly/cd2h-people-slim) is available to onboarded participants (core tab).
+
 # Year 3 Budget
 Don't edit this - the RPPR generator populates this section
 
