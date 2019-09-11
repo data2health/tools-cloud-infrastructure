@@ -1,8 +1,6 @@
-# Cloud-Tool-Infrastructure
+# Cloud-Tool-Infrastructure Resources:
 
-## Resources:
-
-## CD2H Onboarding 
+## CD2H Onboarding Portal 
 - http://bit.ly/cd2h-onboarding-form
 
 ## CD2H Website 
