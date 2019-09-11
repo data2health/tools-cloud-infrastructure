@@ -15,9 +15,6 @@
 ## CD2H Website 
 - https://ncats.nih.gov/pubs/features/cd2h
 
-## CD2H-NCATS Cloud Intake Form 
-- https://forms.gle/YdZHUSR9NT2ktt1EA
-
 ## CD2H-NCATS Cloud Deployment process diagram
 - TBD
 
