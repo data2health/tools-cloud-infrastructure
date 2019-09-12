@@ -19,4 +19,15 @@
 ## [CD2H-NCATS Federated Authentication (UNA) Overview](https://drive.google.com/open?id=1DclEZEwvEasCX0QfBeJZOTlRB0VYCoOQ)
 
 ## CD2H-NCATS Governance Process (Source and link TBD)
-- 
+
+# **GitHub Repos:**
+
+## [Cloud-Tool-Architecture Core GitHub repo](https://github.com/data2health/tools-cloud-infrastructure)
+
+## [Cloud-Tool-Architecture project GitHub repo](https://github.com/data2health/Cloud-Tool-Architecture)
+
+## [Competitions project GitHub repo](https://github.com/data2health/competitions-project)
+
+## [EHR Dream Challenge project GitHub repo](https://github.com/data2health/DREAM-Challenge)
+
+## [LEAF project GitHub repo](https://github.com/data2health/leaf-edw)
