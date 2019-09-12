@@ -19,7 +19,7 @@
 
 ## [CD2H-NCATS Cloud deployment process workflow](https://docs.google.com/presentation/d/1GYGgSbglIuHxAd0qkYRXbcWL4g1jmB-N-gMlQoYQMIc/edit?usp=sharing)
 
-## [D2H-NCATS Cloud deployment checklist](https://docs.google.com/presentation/d/1rVAgHFmiKszxF-_VJLvY9JK91Lg3IjwAV8kM78qzuX4/edit?usp=sharing)
+## [CD2H-NCATS Cloud deployment checklist](https://docs.google.com/presentation/d/1rVAgHFmiKszxF-_VJLvY9JK91Lg3IjwAV8kM78qzuX4/edit?usp=sharing)
  
 ## [CD2H-NCATS Architecture Overview](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0)
 
