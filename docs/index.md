@@ -8,6 +8,8 @@
 
 # Demos:
 
+## [CD2H Labs](http://labs.cd2h.org/labs/)
+
 ## [Competitions](http://competitions.cd2h.org)
 
 
