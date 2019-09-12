@@ -6,6 +6,9 @@
 
 ## [CD2H-NCATS Cloud Intake Form](https://forms.gle/YdZHUSR9NT2ktt1EA)
 
+# Demos:
+
+## [Competitions](http://competitions.cd2h.org)
 
 
 # Information:
