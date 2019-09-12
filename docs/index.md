@@ -11,7 +11,7 @@ Use our NCATs Cloud Resources [intake form](https://forms.gle/YdZHUSR9NT2ktt1EA)
 #### [Browse our CD2H Labs](http://labs.cd2h.org/labs/)
 Visit our tool repository, containing software and tools both under-development and mature for use.
 #### [Participate in our EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality)
-Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality), where you can build and test algorithms for predicting patient mortality.
+Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality), where you can build and test algorithms for predicting patient mortality. Also, read our [blog post](https://ctsa.ncats.nih.gov/cd2h/blog/toward-a-distributed-benchmarking-ecosystem-using-electronic-healthcare-data/) describing the EHR Challenge, and how this aligns with our wider mission to develop a data and algorithm ecosystem. 
 
 ### Exemplar cloud resources:
 #### Competitions
@@ -22,6 +22,8 @@ Leaf is a powerful, lightweight web application for querying clinical data. Leaf
 ## Coming soon...
 * Integrate your github repos with NCATS continuous integration / continuous deployment system (Jenkins)
 * Best practices guidebook for developing, deploying, (automated) testing, and evaluating CTSA tools.
+* Support for an NLP "sandbox" using the NCATs cloud, in collaboration with the [iDTF Text Analytics and De-Id WG](https://clic-ctsa.org/sites/default/files/Text%20Analytics%20and%20De-Identification%20WG%20Charter%20for%20approval12.07.18.pdf)
+
 
 ## All resources:
 
