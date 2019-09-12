@@ -1,17 +1,21 @@
-# Tool-Cloud-Infrastructure Resources:
+## Our vision
+Computational technologies and tools are vital to clinical and translational research; however Hubs currently develop, deploy, and manage these key resources independently. As a result, these processes are tedious, costly, and heterogeneous. This core will address this by establishing a common tool and cloud computing architecture, and will provide CTSA hubs with an affordable, easy to use, and scalable deployment paradigm. We envision that such an approach will support a robust ecosystem that demonstrates the use of shared tools and platforms for the collaborative analysis of clinical data. Hubs can easily promote and deploy their own products as well as adopt others products, thereby transcending long-standing “boundaries” and solving common and recurring information needs.
 
-# Entry Points:
+## Explore Our Work
+### Tool-Cloud-Infrastructure Resources:
 
-## [CD2H Onboarding Portal](http://bit.ly/cd2h-onboarding-form)
+#### [CD2H-NCATS Cloud Intake Form](https://forms.gle/YdZHUSR9NT2ktt1EA)
+Request  NCATs cloud resources  to deploy your tool or service. 
+#### [CD2H Labs](http://labs.cd2h.org/labs/)
+Visit out tool repository.
+#### [CD2H Onboarding Portal](http://bit.ly/cd2h-onboarding-form)
+Use our CD2H onboarding process to select the project(s) you would like to join, learn more, or contribute to.
+#### [EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality)
+Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality), where you can build and test algorithms for predicting patient mortality.
 
-## [CD2H-NCATS Cloud Intake Form](https://forms.gle/YdZHUSR9NT2ktt1EA)
-
-# Demos:
-
-## [CD2H Labs](http://labs.cd2h.org/labs/)
-
-## [Competitions](http://competitions.cd2h.org)
-
+### Exemplar projects:
+#### [Competitions](http://competitions.cd2h.org)
+#### [LEAF project GitHub repo](https://github.com/data2health/leaf-edw)
 
 # Information:
 
@@ -39,4 +43,4 @@
 
 ## [EHR Dream Challenge project GitHub repo](https://github.com/data2health/DREAM-Challenge)
 
-## [LEAF project GitHub repo](https://github.com/data2health/leaf-edw)
+
