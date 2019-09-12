@@ -12,7 +12,7 @@
 
 ## [CD2H Website](https://ncats.nih.gov/pubs/features/cd2h)
 
-## CD2H-NCATS Cloud Deployment process diagram (link TBD)
+## CD2H-NCATS Cloud deployment process diagram (link TBD)
 
 ## CD2H-NCATS Cloud deployment checklist (Source and link TBD)
  
