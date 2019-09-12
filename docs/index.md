@@ -20,9 +20,9 @@
 
 ## CD2H-NCATS Governance Process (Source and link TBD)
 
-# **GitHub Repos:**
+# GitHub Repos:
 
-## [Cloud-Tool-Architecture Core GitHub repo](https://github.com/data2health/tools-cloud-infrastructure)
+## [Tool-Cloud-Infrastructure Core GitHub repo](https://github.com/data2health/tools-cloud-infrastructure)
 
 ## [Cloud-Tool-Architecture project GitHub repo](https://github.com/data2health/Cloud-Tool-Architecture)
 
