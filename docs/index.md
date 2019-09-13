@@ -1,7 +1,10 @@
+# CD2H Tool & Cloud Core
 ## Our vision
 Computational technologies and tools are vital to clinical and translational research; however Hubs currently develop, deploy, and manage these key resources independently. As a result, these processes are tedious, costly, and heterogeneous. This core will address this by establishing a common tool and cloud computing architecture, and will provide CTSA hubs with an affordable, easy to use, and scalable deployment paradigm. We envision that such an approach will support a robust ecosystem that demonstrates the use of shared tools and platforms for the collaborative analysis of clinical data. Hubs can easily promote and deploy their own products as well as adopt others products, thereby transcending long-standing “boundaries” and solving common and recurring information needs.
 
 Use our [CD2H onboarding process](http://bit.ly/cd2h-onboarding-form) to select the project(s) you would like to join, learn more about, or contribute to.
+
+<img src="./CloudCoreOverview.png" height="80%" width="80%"/>
 
 ## Explore Our Work
 #### Review our cloud architecture proposal.
