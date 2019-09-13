@@ -11,9 +11,9 @@ Use our [CD2H onboarding process](http://bit.ly/cd2h-onboarding-form) to select 
 Review a draft of our [CD2H-NCATS Cloud Architecture proposal](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0) and provide feedback to using our [Architecture Response Form](https://docs.google.com/document/d/10xCBV5jCVd5ALNT_bomQVtRARkRpBRj3U6OD7QNsovs/edit).
 #### Request CD2H-NCATS Cloud Resources.
 Use our NCATs Cloud Resources [intake form](https://forms.gle/YdZHUSR9NT2ktt1EA) to request Amazon Web Services for deployment of your tool or service. 
-#### [Browse our CD2H Labs](http://labs.cd2h.org/labs/)
-Visit our tool repository, containing software and tools both under-development and mature for use.
-#### [Participate in our EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality)
+#### Browse our CD2H Labs
+Visit our [tool repository](http://labs.cd2h.org/labs/), where you can browse and access our software and tools under-development.
+#### Participate in our EHR DREAM Challenge
 Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/ehr_dream_challenge_mortality), where you can build and test algorithms for predicting patient mortality. Also, read our [blog post](https://ctsa.ncats.nih.gov/cd2h/blog/toward-a-distributed-benchmarking-ecosystem-using-electronic-healthcare-data/) describing the EHR Challenge, and how this aligns with our wider mission to develop a data and algorithm ecosystem. 
 
 ### Exemplar cloud resources:
