@@ -6,7 +6,7 @@ Use our [CD2H onboarding process](http://bit.ly/cd2h-onboarding-form) to select 
 
 <img src="./CloudCoreOverview.png" height="80%" width="80%"/>
 
-## Explore Our Work
+## Explore Our Work and Engage With Us
 #### Review our cloud architecture proposal.
 Review a draft of our [CD2H-NCATS Cloud Architecture proposal](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0) and provide feedback using our [Architecture Response Form](https://docs.google.com/document/d/10xCBV5jCVd5ALNT_bomQVtRARkRpBRj3U6OD7QNsovs/edit).
 #### Request CD2H-NCATS Cloud Resources.
