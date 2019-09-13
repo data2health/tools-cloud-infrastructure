@@ -22,13 +22,13 @@ Access our [Competitions platform](http://competitions.cd2h.org) to run NIH-styl
 #### LEAF
 Leaf is a powerful, lightweight web application for querying clinical data. Leaf helps query clinical databases of nearly any data model for cohort estimation and data extraction. Leaf seamlessly integrates with clinical databases and existing enterprise authentication systems to unleash the potential of translational biomedical research. Access the [source code](github.com/uwrit/leaf) or view a [video demo](https://www.youtube.com/watch?v=ZuKKC7B8mHI).
 
-## Coming soon...
+### Ongoing efforts:
 * Integrate your github repos with NCATS continuous integration / continuous deployment system (Jenkins)
 * Best practices guidebook for developing, deploying, (automated) testing, and evaluating CTSA tools.
 * Support for an NLP "sandbox" using the NCATs cloud, in collaboration with the [iDTF Text Analytics and De-Id WG](https://clic-ctsa.org/sites/default/files/Text%20Analytics%20and%20De-Identification%20WG%20Charter%20for%20approval12.07.18.pdf)
 
 
-## All resources:
+### All resources:
 
 * [CD2H Website](https://ncats.nih.gov/pubs/features/cd2h)
 * [CD2H-NCATS Cloud deployment process workflow](https://docs.google.com/presentation/d/1GYGgSbglIuHxAd0qkYRXbcWL4g1jmB-N-gMlQoYQMIc/edit?usp=sharing)
