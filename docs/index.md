@@ -3,7 +3,7 @@ Computational technologies and tools are vital to clinical and translational res
 
 Use our [CD2H onboarding process](http://bit.ly/cd2h-onboarding-form) to select the project(s) you would like to join, learn more about, or contribute to.
 
-<img src="./CloudDiagram.PNG" height="80%" width="80%"/>
+<img src="./CloudDiagram.PNG" height="80%" width="95%"/>
 
 ## Explore Our Work and Engage With Us
 #### Review our cloud architecture proposal.
