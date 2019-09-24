@@ -19,7 +19,11 @@ Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/eh
 #### Competitions
 Access our [Competitions platform](http://competitions.cd2h.org) to run NIH-style grant competitions across the CTSA including pilot projects and research awards. This platform is also an example of how to successfully deploy a Software As A Service (Saas) into the [NCATs cloud environment](https://forms.gle/YdZHUSR9NT2ktt1EA), and to leverage [Federated Authentication](https://drive.google.com/open?id=1DclEZEwvEasCX0QfBeJZOTlRB0VYCoOQ). 
 #### LEAF
-Leaf is a powerful, lightweight web application for querying clinical data. Leaf helps query clinical databases of nearly any data model for cohort estimation and data extraction. Leaf seamlessly integrates with clinical databases and existing enterprise authentication systems to unleash the potential of translational biomedical research. Access the [source code](github.com/uwrit/leaf) or view a [video demo](https://www.youtube.com/watch?v=ZuKKC7B8mHI).
+Leaf is a powerful, lightweight web application for querying clinical data. Leaf helps query clinical databases of nearly any data model for cohort estimation and data extraction. Leaf seamlessly integrates with clinical databases and existing enterprise authentication systems to unleash the potential of translational biomedical research. 
+
+A [live demo of Leaf](http://weberdemo.hms.harvard.edu/leaf) is available online (Select “Research” and “No” and “De-Identified” for the series of questions at the beginning to access the application.) Please keep in mind not all capabilities are present in this demo, which is only using synthetic data. For a full demo, please see our [youtube video](https://www.youtube.com/watch?v=ZuKKC7B8mHI) or contact Liz at ezampino@uw.edu.
+
+Leaf is open-source; sourcecode can be accessed through our [github repoository](github.com/uwrit/leaf).
 
 ### Ongoing efforts:
 * Integrate your github repos with NCATS continuous integration / continuous deployment system (Jenkins)
