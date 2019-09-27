@@ -17,7 +17,7 @@ Participate in our recently launched [EHR DREAM Challenge](http://synapse.org/eh
 
 ### Exemplar cloud resources:
 #### Competitions
-Access our [Competitions platform](http://competitions.cd2h.org) to run NIH-style grant competitions across the CTSA including pilot projects and research awards. This platform is also an example of how to successfully deploy a Software As A Service (Saas) into the [NCATs cloud environment](https://forms.gle/YdZHUSR9NT2ktt1EA), and to leverage [Federated Authentication](https://drive.google.com/open?id=1DclEZEwvEasCX0QfBeJZOTlRB0VYCoOQ). 
+A platform to support robust peer review within and across CTSA hubs does not currently exist. Competitions fills this gap with a cloud-based, single-sign on software tool for investigators, reviewers and administrators. Access our [Competitions platform](http://competitions.cd2h.org) to run NIH-style grant competitions across the CTSA including pilot projects and research awards. With Competitions, you can post opportunities, submit applications and review and score those submissions. This platform is also an example of how to successfully deploy a Software As A Service (Saas) into the [NCATs cloud environment](https://forms.gle/YdZHUSR9NT2ktt1EA), and to leverage [Federated Authentication](https://drive.google.com/open?id=1DclEZEwvEasCX0QfBeJZOTlRB0VYCoOQ). 
 #### LEAF
 Leaf is a powerful, lightweight web application for querying clinical data. Leaf helps query clinical databases of nearly any data model for cohort estimation and data extraction. Leaf seamlessly integrates with clinical databases and existing enterprise authentication systems to unleash the potential of translational biomedical research. 
 
