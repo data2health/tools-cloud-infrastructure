@@ -7,7 +7,7 @@ Use our [CD2H onboarding process](http://bit.ly/cd2h-onboarding-form) to select 
 
 ## Explore Our Work and Engage With Us
 #### Review our cloud architecture proposal.
-Review a draft of our [CD2H-NCATS Cloud Architecture proposal](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0) and provide feedback using our [Architecture Response Form](https://docs.google.com/document/d/1fiIIYBWmSvw8gPzy0n9yp6efJ5lLhBy_u8zexgGCAf0/edit).
+Review a draft of our [CD2H-NCATS Cloud Architecture proposal](https://docs.google.com/presentation/d/1O8C0Kj5AtX-69C0eY79zaftAQFPYAWAELAZ2Y7-vnnA/edit#slide=id.g5e2ce0d5ce_5_0) and provide feedback using our [Architecture Response Form](https://docs.google.com/forms/d/e/1FAIpQLScVXPr_wPDVDdbxn4NXCOPVVXnN2rzfMjtrPle6DZjr2jPlIw/viewform?vc=0&c=0&w=1&usp=mail_form_link).
 #### Request CD2H-NCATS Cloud Resources.
 Use our NCATs Cloud Resources [intake form](https://forms.gle/YdZHUSR9NT2ktt1EA) to request Amazon Web Services for deployment of your tool or service. 
 #### Browse our CD2H Labs
@@ -37,7 +37,7 @@ Leaf is open-source; sourcecode can be accessed through our [github repoository]
 * [CD2H-NCATS Cloud Deployment Checklist](https://docs.google.com/presentation/d/1rVAgHFmiKszxF-_VJLvY9JK91Lg3IjwAV8kM78qzuX4/edit?usp=sharing)
 * [CD2H-NCATS Cloud Deployment Process Workflow](https://docs.google.com/presentation/d/1GYGgSbglIuHxAd0qkYRXbcWL4g1jmB-N-gMlQoYQMIc/edit?usp=sharing)
 * [CD2H-NCATS Architecture Design Proposal](http://bit.ly/cd2h-cloud-rfc)
-* [CD2H-NCATS Architecture Request for Feedback Form](https://docs.google.com/document/d/10xCBV5jCVd5ALNT_bomQVtRARkRpBRj3U6OD7QNsovs/edit)
+* [CD2H-NCATS Architecture Request for Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScVXPr_wPDVDdbxn4NXCOPVVXnN2rzfMjtrPle6DZjr2jPlIw/viewform?vc=0&c=0&w=1&usp=mail_form_link)
 * [CD2H-NCATS Federated Authentication (UNA) Overview](https://drive.google.com/open?id=1DclEZEwvEasCX0QfBeJZOTlRB0VYCoOQ)
 
 
