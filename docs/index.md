@@ -23,7 +23,7 @@ Leaf is a powerful, lightweight web application for querying clinical data. Leaf
 
 A [live demo of Leaf](http://weberdemo.hms.harvard.edu/leaf) is available online (Select “Research” and “No” and “De-Identified” for the series of questions at the beginning to access the application.) Please keep in mind not all capabilities are present in this demo, which is only using synthetic data. For a full demo, please see our [youtube video](https://www.youtube.com/watch?v=ZuKKC7B8mHI) or contact Liz at ezampino@uw.edu.
 
-Leaf is open-source; sourcecode can be accessed through our [github repoository](github.com/uwrit/leaf).
+Leaf is open-source; sourcecode can be accessed through our [github repoository](https://github.com/uwrit/leaf).
 
 ### Ongoing efforts:
 * Integrate your github repos with NCATS continuous integration / continuous deployment system (Jenkins)
